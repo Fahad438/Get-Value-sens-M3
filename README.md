@@ -49,7 +49,6 @@ https://fahad438.github.io/Get-Value-sens-M3/
 <br />
 <br />
 ![image](https://user-images.githubusercontent.com/86566999/181142058-b2af427b-f97b-48c2-9a68-26d3a406e438.png)
-![image](https://user-images.githubusercontent.com/86566999/181144284-99f941ba-91d1-44f3-89e7-97aa95a5ef1a.png)
 
 <br />
 <br />
@@ -70,29 +69,23 @@ https://smartmethod.000webhostapp.com/getValuse.php?sens=100
 <br />
 <br />
 هذا هو الكود الخاص بادخال البيانات الى قاعدة البيانات :
+![image](https://user-images.githubusercontent.com/86566999/181144284-99f941ba-91d1-44f3-89e7-97aa95a5ef1a.png)
 
-<br />
-<br />
 
-<br />
-<br />
+
+
 اذا تم ادخال البيانات بشكل صحيح سيتم طباعة : 
 Done
-<br />
-<br />
+
 اذا كان هناك اي خطا في الكويري سيتم طباعة :
 incorrect SQL
 الجزء الاخير من المهمه :
 عرض جميع البيانات المدخلة الى قاعدة البيانات في صفحة 
 index.html
-<br />
-<br />
-الكود الخاص بسحب البيانات من قاعدة البيانات وعرضها:
-<br />
-<br />
 
-<br />
-<br />
+الكود الخاص بسحب البيانات من قاعدة البيانات وعرضها:
+
+
 
 
 
