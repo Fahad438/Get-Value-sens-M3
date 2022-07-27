@@ -34,7 +34,7 @@ https://fahad438.github.io/Get-Value-sens-M3/
 # فديو توضيحي
 <br />
 <br />
-https://user-images.githubusercontent.com/86566999/181156413-3edf517f-ddb5-4dca-813f-c37de469faac.mp4
+![gif](https://user-images.githubusercontent.com/86566999/181157154-23794a69-e8d0-401a-946e-4d55ca0357a7.gif)
 <br />
 <br />
 
