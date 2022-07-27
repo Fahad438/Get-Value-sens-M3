@@ -49,6 +49,8 @@ https://fahad438.github.io/Get-Value-sens-M3/
 <br />
 <br />
 ![image](https://user-images.githubusercontent.com/86566999/181142058-b2af427b-f97b-48c2-9a68-26d3a406e438.png)
+![image](https://user-images.githubusercontent.com/86566999/181144284-99f941ba-91d1-44f3-89e7-97aa95a5ef1a.png)
+
 <br />
 <br />
 الجزء الثالث من المهمه :
@@ -88,7 +90,7 @@ index.html
 الكود الخاص بسحب البيانات من قاعدة البيانات وعرضها:
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/86566999/181141689-5059fdda-e0a4-4b25-b2dd-1e307189ac51.png)
+
 <br />
 <br />
 
