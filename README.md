@@ -28,7 +28,11 @@ https://smartmethod.000webhostapp.com/getValuse.php?sens=100
 <br />
 ثانيا يمكننا عرض القيم التي تم حفظها عن طريق الرابط التالي :
 https://fahad438.github.io/Get-Value-sens-M3/
-
+<br/>
+<br/>
+Uploading ‪Fahad438_Get-Value-sens-M3 - Brave‬ 2022-07-27 05-11-50.mp4…
+<br/>
+<br/>
 # شرح للمهمه كاملة
 الجزء الاول من المهمه:
 <br />
