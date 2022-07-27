@@ -53,6 +53,7 @@ https://fahad438.github.io/Get-Value-sens-M3/
 <br />
 <br />
 الجزء الثالث من المهمه :
+![image](https://user-images.githubusercontent.com/86566999/181144284-99f941ba-91d1-44f3-89e7-97aa95a5ef1a.png)
 <br />
 <br />
 تخزين قيم الحساس في قاعدة البيانات عن طريق الرابط التالي:
@@ -65,7 +66,7 @@ https://smartmethod.000webhostapp.com/getValuse.php?sens= + "قيمة الحسا
 https://smartmethod.000webhostapp.com/getValuse.php?sens=100
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/86566999/181144284-99f941ba-91d1-44f3-89e7-97aa95a5ef1a.png)
+
 (سنقوم بادخال القيم موقتا هكذا الى ان نقوم بربطه معا الحساس لاخذ القيم الصحيحه)
 <br />
 <br />
