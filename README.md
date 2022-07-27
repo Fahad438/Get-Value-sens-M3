@@ -22,6 +22,7 @@ https://smartmethod.000webhostapp.com/getValuse.php?sens= + "قيمة الحسا
 <br />
 https://smartmethod.000webhostapp.com/getValuse.php?sens=100
 <br />
+https://user-images.githubusercontent.com/86566999/181156413-3edf517f-ddb5-4dca-813f-c37de469faac.mp4
 <br />
 (سنقوم بادخال القيم موقتا هكذا الى ان نقوم بربطه معا الحساس لاخذ القيم الصحيحه)
 <br />
