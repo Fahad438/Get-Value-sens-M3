@@ -3,17 +3,17 @@
 # هذا العمل متطلب لدى شركة الأساليب الذكية
 # محتويات الملف 
 <br />
-index.html(نقوم بعرض القيم المخزنه في قاعدة البيانات )
+1-index.html(نقوم بعرض القيم المخزنه في قاعدة البيانات )
 <br />
-getValue.php(نقوم بسحب قيمة الحساس وحفظها في قاعدة البيانات )
+2-getValue.php(نقوم بسحب قيمة الحساس وحفظها في قاعدة البيانات )
 <br />
-showValue.php(هذا الملف خاص بعرض البيانات التي قمنا بتخزينها وعرضها )
+3-showValue.php(هذا الملف خاص بعرض البيانات التي قمنا بتخزينها وعرضها )
 
 # طريقة عمل الموقع
 <br />
 اولا نقوم بادخال قيمة للحساس عن طريق الرابط التالي :
 <br />
-https://smartmethod.000webhostapp.com/getValuse.php?sens=+"قيمة الحساس"
+https://smartmethod.000webhostapp.com/getValuse.php?sens=+ "قيمة الحساس "
 <br />
 مثال :
 https://smartmethod.000webhostapp.com/getValuse.php?sens=100
