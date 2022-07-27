@@ -14,7 +14,7 @@
 اولا نقوم بادخال قيمة للحساس عن طريق الرابط التالي:
 <br/>
 <br/>
-https://smartmethod.000webhostapp.com/getValuse.php?sens=+ "قيمة الحساس "
+https://smartmethod.000webhostapp.com/getValuse.php?sens= + "قيمة الحساس "
 <br />
 <br />
 مثال :
@@ -55,7 +55,7 @@ https://fahad438.github.io/Get-Value-sens-M3/
 <br />
 <br />
 تخزين قيم الحساس في قاعدة البيانات عن طريق الرابط التالي:
-https://smartmethod.000webhostapp.com/getValuse.php?sens=+ "قيمة الحساس "
+https://smartmethod.000webhostapp.com/getValuse.php?sens= + "قيمة الحساس "
 <br />
 <br />
 مثال :
@@ -67,3 +67,27 @@ https://smartmethod.000webhostapp.com/getValuse.php?sens=100
 (سنقوم بادخال القيم موقتا هكذا الى ان تقوم بربطه معا الحساس لاخذ القيم الصحيحه)
 <br />
 <br />
+هذا هو الكود الخاص بادخال البيانات الى قاعدة البيانات :
+
+<br />
+<br />
+![image](https://user-images.githubusercontent.com/86566999/181142534-93f1c4ca-8d97-4318-a022-0d226b392a52.png)
+<br />
+<br />
+اذا تم ادخال البيانات بشكل صحيح سيتم طباعة : 
+Done
+<br />
+<br />
+اذا كان هناك اي خطا في الكويري سيتم طباعة :
+incorrect SQL
+الجزء الاخير من المهمه :
+عرض جميع البيانات المدخلة الى قاعدة البيانات في صفحة 
+index.html--->Press the button to be transferred to the data
+<br />
+<br />
+الكود الخاص بسحب البيانات من قاعدة البيانات وعرضها:
+<br />
+<br />
+![image](https://user-images.githubusercontent.com/86566999/181143029-a4728d2d-77ae-4d10-9973-29cf0f4aca98.png)
+
+
