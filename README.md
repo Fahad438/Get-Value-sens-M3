@@ -82,7 +82,7 @@ Done
 incorrect SQL
 الجزء الاخير من المهمه :
 عرض جميع البيانات المدخلة الى قاعدة البيانات في صفحة 
-index.html--->Press the button to be transferred to the data
+index.html
 <br />
 <br />
 الكود الخاص بسحب البيانات من قاعدة البيانات وعرضها:
