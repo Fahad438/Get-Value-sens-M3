@@ -11,14 +11,20 @@
 
 # طريقة عمل الموقع
 <br/>
-اولا نقوم بادخال قيمة للحساس عن طريق الرابط التالي
+اولا نقوم بادخال قيمة للحساس عن طريق الرابط التالي:
+<br/>
 <br/>
 https://smartmethod.000webhostapp.com/getValuse.php?sens=+ "قيمة الحساس "
 <br />
+<br />
 مثال :
+<br />
+<br />
 https://smartmethod.000webhostapp.com/getValuse.php?sens=100
 <br />
+<br />
 (سنقوم بادخال القيم موقتا هكذا الى ان تقوم بربطه معا الحساس لاخذ القيم الصحيحه)
+<br />
 <br />
 ثانيا يمكننا عرض القيم التي تم حفظها عن طريق الرابط التالي :
 https://fahad438.github.io/Get-Value-sens-M3/
