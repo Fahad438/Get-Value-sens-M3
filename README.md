@@ -88,7 +88,7 @@ index.html--->Press the button to be transferred to the data
 الكود الخاص بسحب البيانات من قاعدة البيانات وعرضها:
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/86566999/181143630-6f2b1779-692d-48c8-88b5-d6431657fabb.png)
+![image](https://user-images.githubusercontent.com/86566999/181141689-5059fdda-e0a4-4b25-b2dd-1e307189ac51.png)
 <br />
 <br />
 
