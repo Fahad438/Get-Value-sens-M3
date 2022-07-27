@@ -72,7 +72,6 @@ https://smartmethod.000webhostapp.com/getValuse.php?sens=100
 <br />
 <br />
 ![image](https://user-images.githubusercontent.com/86566999/181143460-9b9a2d94-faae-4646-90a8-d313f29df059.png)
-
 <br />
 <br />
 اذا تم ادخال البيانات بشكل صحيح سيتم طباعة : 
