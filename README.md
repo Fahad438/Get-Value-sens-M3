@@ -80,6 +80,13 @@ Done
 incorrect SQL
 <br />
 <br />
+بعض القيم التي تم حظفها في قاعدة البيانات:
+<br />
+<br />
+![image](https://user-images.githubusercontent.com/86566999/181145176-aa89b28f-168c-4558-8392-0eae957ac101.png)
+
+<br />
+<br />
 الجزء الاخير من المهمه:
 <br />
 <br />
