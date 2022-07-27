@@ -31,3 +31,8 @@ https://fahad438.github.io/Get-Value-sens-M3/
 
 # شرح للمهمه كاملة
 اولا
+قمنا بعمل موقع لسحب قيم الحساس عن طريق GET 
+<br />
+<br />
+![image](https://user-images.githubusercontent.com/86566999/181141689-5059fdda-e0a4-4b25-b2dd-1e307189ac51.png)
+
