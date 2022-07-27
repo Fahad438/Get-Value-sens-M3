@@ -71,7 +71,7 @@ https://smartmethod.000webhostapp.com/getValuse.php?sens=100
 
 <br />
 <br />
-![image](https://user-images.githubusercontent.com/86566999/181143460-9b9a2d94-faae-4646-90a8-d313f29df059.png)
+
 <br />
 <br />
 اذا تم ادخال البيانات بشكل صحيح سيتم طباعة : 
@@ -86,6 +86,7 @@ index.html--->Press the button to be transferred to the data
 <br />
 <br />
 الكود الخاص بسحب البيانات من قاعدة البيانات وعرضها:
+![image](https://user-images.githubusercontent.com/86566999/181143630-6f2b1779-692d-48c8-88b5-d6431657fabb.png)
 <br />
 <br />
 
