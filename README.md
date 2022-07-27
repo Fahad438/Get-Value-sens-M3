@@ -49,6 +49,7 @@ https://fahad438.github.io/Get-Value-sens-M3/
 <br />
 <br />
 ![image](https://user-images.githubusercontent.com/86566999/181142058-b2af427b-f97b-48c2-9a68-26d3a406e438.png)
+![image](https://user-images.githubusercontent.com/86566999/181144284-99f941ba-91d1-44f3-89e7-97aa95a5ef1a.png)
 
 <br />
 <br />
