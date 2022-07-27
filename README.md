@@ -13,16 +13,14 @@
 <br/>
 اولا نقوم بادخال قيمة للحساس عن طريق الرابط التالي:
 <br/>
-<br/>
 https://smartmethod.000webhostapp.com/getValuse.php?sens= + "قيمة الحساس "
 <br />
-<br />
+
 مثال :
-<br />
 <br />
 https://smartmethod.000webhostapp.com/getValuse.php?sens=100
 <br />
-<br />
+
 (سنقوم بادخال القيم موقتا هكذا الى ان نقوم بربطه معا الحساس لاخذ القيم الصحيحه)
 <br />
 <br />
@@ -31,6 +29,7 @@ https://fahad438.github.io/Get-Value-sens-M3/
 <br />
 <br />
 ![gif](https://user-images.githubusercontent.com/86566999/181157154-23794a69-e8d0-401a-946e-4d55ca0357a7.gif)
+<br />
 # شرح للمهمه كاملة
 الجزء الاول من المهمه:
 <br />
