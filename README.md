@@ -29,4 +29,5 @@ https://smartmethod.000webhostapp.com/getValuse.php?sens=100
 ثانيا يمكننا عرض القيم التي تم حفظها عن طريق الرابط التالي :
 https://fahad438.github.io/Get-Value-sens-M3/
 
-# شرح للمهمه كاملة   
+# شرح للمهمه كاملة
+اولا
